@@ -1,0 +1,8 @@
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\bin\Debug\Invoices.exe.config
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\bin\Debug\Invoices.mdf
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\bin\Debug\Invoices_log.ldf
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\bin\Debug\Invoices.exe
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\bin\Debug\Invoices.pdb
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\obj\Debug\Invoices.csprojResolveAssemblyReference.cache
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\obj\Debug\Invoices.exe
+c:\users\paloma\documents\visual studio 2015\Projects\Invoices\Invoices\obj\Debug\Invoices.pdb
